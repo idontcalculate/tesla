@@ -1,8 +1,9 @@
 <<<<<<< HEAD
-# embedchain-llm
+# 
 =======
 
-# MLC-bot for MLCommons
+# MLC-bot  and tesla.bot for q&a 
+
 
 ## Overview
 
