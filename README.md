@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# 
-=======
+
 ###TESLA SEARCH ENGINE
 
 ## Overview
@@ -10,11 +8,6 @@ The main objective of tesla search engine is to offer researchers immediate, acc
 ## Features
 
 Idea is to add more features to improve sythethizing component, so the users would gain access to generated texbooks and learning materials, rather then just getting the query result. 
-
-
-## License
-
-This project falls under the MIT License.
 
 ## Contributing
 
